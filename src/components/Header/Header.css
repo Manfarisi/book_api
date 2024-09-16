@@ -1,0 +1,12 @@
+.header-content{
+    min-height: 75vh;
+    background: linear-gradient(rgba(0, 17, 11, 0.3),rgba(33, 73, 56, 0.5)), url("../../images/about-img.jpg") ;
+    flex-direction: column;
+}
+
+.header-text{
+    margin-top: -1.5rem;
+    margin-bottom: 2.8rem;
+    opacity: 9;
+    max-width: 770px;
+}
